@@ -15,5 +15,5 @@ except ValueError as e:
     print(f"Hata: {e}")
 
 kutuphane.kitaplari_goster()
-# kutuphane.kitap_sil("1234567890")
+kutuphane.kitap_sil("1234567890")
 kutuphane.kitaplari_goster()
