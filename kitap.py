@@ -1,3 +1,4 @@
+# Kitap nesnelerini oluşturmak için kullanılan class
 class Kitap:
     def __init__(self, ad, yazar, sayfa_sayisi, isbn):
         self.__ad = ad
