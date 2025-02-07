@@ -1,3 +1,4 @@
+# Kütüphanede kitaplarla ilgili gerekli işlemlerin yapılmasını sağlayan class
 from kitap import Kitap
 class Kutuphane:
     def __init__(self):
